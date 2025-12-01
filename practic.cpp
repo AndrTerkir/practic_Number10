@@ -32,9 +32,12 @@ int main() {
 	else {
 		cout << "Ошибка";
 	}
+	
 
 
 
+	int _;
+	cin >> _;
 
 	return(0);
 }
